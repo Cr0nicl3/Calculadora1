@@ -16,7 +16,6 @@ public class Calculadora {
      * @param a primer valor con el que calcular
      * @param b segundo valor con el que calcular
      */
-
     public Calculadora(int a, int b){
         num1=a;
         num2=b;
